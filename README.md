@@ -22,9 +22,9 @@
   <img height="120" align="center" src="https://github-readme-stats.vercel.app/api?username=viniciusldiniz&bg_color=DEG,2E2E2E,000000&title_color=3399CC&text_color=CCCCCC&icon_color=66CC66" />
 </a>
 <a href="https://github.com/viniciusldiniz/convoychat">
-  <img height="120" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=viniciusldiniz&layout=compact&langs_count=8&card_width=320&bg_color=DEG,2E2E2E,000000&title_color=3399CC&text_color=CCCCCC&icon_color=66CC66" />
+  <img height="120" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=viniciusldiniz&layout=compact&langs_count=8&card_width=320&bg_color=DEG,2E2E2E,000000&title_color=3399CC&text_color=CCCCCC&icon_color=66CC66" /></p>
 
-
+<p align="center"><img  src="https://raw.githubusercontent.com/shahradelahi/shahradelahi/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only"/>
 
 
 
