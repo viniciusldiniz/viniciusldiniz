@@ -1,35 +1,98 @@
+# 👋 Hello World! | Olá, mundo!
+
 <p align="center">
- <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F70E0E&random=false&width=435&lines=Hello+World!+%F0%9F%91%8B;I+am+Vinicius+Lessa!+%F0%9F%87%A7%F0%9F%87%B7" alt="Typing SVG" /></a> <br> </p>
- 
-<p>Olá, meu nome é Vinícius Lessa, formado em Sistemas de Informação e desenvolvedor front-end júnior, atualmente me especializando em Back-end no Senai-Maracanã. Desde a infância, meu fascínio por jogos e tecnologia cresceu aguçando minha curiosidade, impulsionando minha escolha por essa carreira empolgante. Dedico-me a criar experiências envolventes como desenvolvedor front-end, utilizando JavaScript e TypeScript para aprimorar interfaces inovadoras. Minha paixão por jogos é a força motriz por trás da minha abordagem detalhada e criativa no desenvolvimento. Estou sempre em busca de novos desafios que me permitam expandir meu conhecimento e contribuindo e criando projetos emocionantes.</p>
-
-
-<p>Hello, my name is Vinícius Lessa, graduated in Information Systems and a junior front-end developer, currently specializing in Back-end at Senai-Maracanã. Since childhood, my fascination with games and technology has grown, driving my choice for this exciting career. I dedicate myself to creating engaging experiences as a front-end developer, using JavaScript and TypeScript to enhance innovative interfaces. My passion for games is the driving force behind my detailed and creative approach to development. I am always eager for new challenges that allow me to expand my knowledge and contribute to exciting projects.</p>
-
-
-## 🚀 Sobre mim.   About me.
-<p>Meu foco inicial era Desenvolvimento Front-End, criando grandes conhecimentos em SPA, com JavaScript e TypeScript. No entanto, recentemente, iniciei uma especialização em Back-End, atualmente utilizando Java.</p>
-<p>My initial focus was Front-End Development, building extensive knowledge in SPA, using JavaScript and TypeScript. However, I have recently embarked on a specialization in Back-End, currently working with Java.</p>
-
-## 🛠 Habilidades.  TechStack
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,mysql,github,git,java&perline=3" />
-  </a>
+ <a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F70E0E&center=true&vCenter=true&width=600&lines=Hello+World!+%F0%9F%91%8B;I'm+Vinicius+Lessa;Cybersecurity+Student+%7C+Junior+Developer+🇧🇷" alt="Typing SVG" />
+ </a>
 </p>
 
+---
 
-<a href="https://github.com/viniciusldiniz/github-readme-stats">
-  <img height="120" align="center" src="https://github-readme-stats.vercel.app/api?username=viniciusldiniz&bg_color=DEG,2E2E2E,000000&title_color=3399CC&text_color=CCCCCC&icon_color=66CC66" />
-</a>
-<a href="https://github.com/viniciusldiniz/convoychat">
-  <img height="120" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=viniciusldiniz&layout=compact&langs_count=8&card_width=320&bg_color=DEG,2E2E2E,000000&title_color=3399CC&text_color=CCCCCC&icon_color=66CC66" /></p>
+## 🔐 Sobre mim | About me
 
-<p align="center"><img  src="https://raw.githubusercontent.com/shahradelahi/shahradelahi/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only"/>
+### 🇧🇷 Português
+Sou formado em **Sistemas de Informação** e atuo como **Desenvolvedor Júnior**, atualmente em **transição estratégica para a área de Cibersegurança**.  
+Possuo base sólida em **desenvolvimento web**, **lógica de programação** e **sistemas**, com foco crescente em **segurança da informação**, **análise de vulnerabilidades** e **boas práticas de proteção de aplicações**.
+
+Atualmente estou me especializando em **Back-End com Java (SENAI-Maracanã)** e desenvolvendo projetos práticos voltados à **segurança ofensiva e defensiva**, automação e análise de logs.
+
+Busco oportunidades como **Analista de Segurança Júnior**, **SOC Analyst**, **Desenvolvedor com foco em segurança** ou **Estágio em Cibersegurança**.
+
+---
+
+### 🇺🇸 English
+I hold a degree in **Information Systems** and work as a **Junior Developer**, currently making a **strategic transition into Cybersecurity**.  
+I have a solid foundation in **web development**, **programming logic**, and **systems**, with a growing focus on **information security**, **vulnerability analysis**, and **secure application practices**.
+
+I am currently specializing in **Back-End development with Java (SENAI-Maracanã)** and building hands-on projects related to **offensive and defensive security**, automation, and log analysis.
+
+I am seeking opportunities as a **Junior Security Analyst**, **SOC Analyst**, **Security-focused Developer**, or **Cybersecurity Intern**.
+
+---
+
+## 🛠️ Technical Skills | Competências Técnicas
+
+### 🔐 Cybersecurity
+- Information Security Fundamentals  
+- Vulnerability Analysis (OWASP Top 10 – entry level)  
+- Log Analysis & Pattern Detection  
+- Secure Coding Principles  
+- Basic Pentesting Concepts (educational)
+
+### 💻 Development
+- **Front-End:** HTML5, CSS3, JavaScript, TypeScript  
+- **Back-End:** Java (learning), Node.js (basic)  
+- **Databases:** MySQL  
+
+### ⚙️ Tools & Technologies
+- Git & GitHub  
+- Linux (basic)  
+- VS Code  
+- REST APIs  
+- Regex (log analysis)
+
+---
+
+## 📌 Featured Projects | Projetos em Destaque
+
+- 🔐 **Security Log Analyzer**  
+  Python-based tool for analyzing logs and detecting suspicious patterns (educational purpose).
+
+- 🛡️ **Cybersecurity Automation Scripts**  
+  Educational scripts for hash checking, log monitoring and basic security automation.
+
+- 🌐 **Professional Portfolio Website**  
+  Responsive portfolio focused on clean UI, accessibility and performance.
+
+---
+
+## 📊 GitHub Stats
+
+- 📂 Repositórios públicos com foco em **Cibersegurança**
+- 🛡️ Projetos educacionais documentados
+- 📈 Evolução constante e commits frequentes
 
 
+---
+
+## 🌐 Activity
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/shahradelahi/shahradelahi/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only"/>
+</p>
+
+---
 
 ## 🔗 Links
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://vinicius-lessa-portfolio-br.vercel.app/)
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vinícius-lessa-55b21b176/)
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white)](https://vinicius-lessa-portfolio-br.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vin%C3%ADcius-lessa-55b21b176/)
+
+---
+
+## 🎯 Career Focus | Objetivo Profissional
+
+- Junior Cybersecurity Analyst  
+- SOC Analyst (Tier 1)  
+- Entry-level Blue Team  
+- Security-focused Software Development  
