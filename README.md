@@ -1,12 +1,12 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1f2e,100:0d1117&height=200&section=header&text=Vinicius%20Diniz&fontSize=52&fontColor=e6edf3&fontAlignY=38&desc=Backend%20Developer%20%7C%20Cybersecurity%20%7C%20Ex-Navy&descAlignY=60&descColor=8b949e" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1f2e,100:0d1117&height=200&section=header&text=Vinicius%20Diniz&fontSize=52&fontColor=e6edf3&fontAlignY=38&desc=Backend%20Developer,%20Cybersecurity,%20Ex-Marine%20Corps&descAlignY=60&descColor=8b949e" width="100%"/>
 
 </div>
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&pause=1200&color=58A6FF&center=true&vCenter=true&width=700&lines=Java+%26+Spring+Boot+Backend+Developer;Cybersecurity+Graduate+%7C+FAMEESP;8+Years+Brazilian+Navy+%7C+Carta+de+Honra+ao+M%C3%A9rito;Building+secure+systems%2C+one+commit+at+a+time.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&pause=1200&color=58A6FF&center=true&vCenter=true&width=700&lines=Java+%26+Spring+Boot+Backend+Developer;Cybersecurity+Graduate+%7C+FAMEESP;8+Years+Brazilian+Marine+Corps,+Carta+de+Honra+ao+M%C3%A9rito;Building+secure+systems%2C+one+commit+at+a+time.)](https://git.io/typing-svg)
 
 </div>
 
@@ -20,7 +20,7 @@
 
 I'm **Vinicius Diniz**, a Backend Developer and Cybersecurity professional from Rio de Janeiro, Brazil 🇧🇷.
 
-Before tech, I served **8 years in the Brazilian Navy Corps** where I earned the **Carta de Honra ao Mérito** and five military decorations across operations including peacekeeping missions. That chapter gave me discipline, precision under pressure, and a mindset built for high-stakes environments.
+Before tech, I served **8 years in the Brazilian Marine Corps**, where I earned the **Carta de Honra ao Mérito** and five military decorations across operations including peacekeeping missions. That chapter gave me discipline, precision under pressure, and a mindset built for high-stakes environments.
 
 Today I apply that same standard to software: building **secure, robust backend systems** with Java and Spring Boot, and deepening expertise in cybersecurity through a **Postgraduate degree at FAMEESP**.
 
@@ -29,9 +29,9 @@ var vinicius = Developer.builder()
     .name("Vinicius Diniz")
     .role("Backend Developer | Security Graduate")
     .stack(List.of("Java", "Spring Boot", "Spring Security"))
-    .background("8 yrs Brazilian Navy · Carta de Honra ao Mérito")
-    .education("B.Sc. Information Systems · MBA Cybersecurity")
-    .focus("Secure Backend · DevSecOps · Cloud")
+    .background("8 yrs Marine Corps, Carta de Honra ao Mérito")
+    .education("B.Sc. Information Systems, MBA Cybersecurity")
+    .focus("Secure Backend, DevSecOps, Cloud")
     .openToWork(true)
     .build();
 ```
@@ -103,7 +103,7 @@ var vinicius = Developer.builder()
 │  ✔ Vulnerability Mgmt│  ○ CTF Challenges                    │
 ├──────────────────────┴──────────────────────────────────────┤
 │  EDUCATION                                                  │
-│  Pós-Graduação em Cibersegurança · FAMEESP (2024–2025)      │
+│  Pós-Graduação em Cibersegurança, FAMEESP (2024–2025)       │
 │  Segurança ofensiva, defensiva, hardening, análise de CVEs  │
 └─────────────────────────────────────────────────────────────┘
 ```
@@ -127,7 +127,7 @@ Python tool for log analysis and suspicious pattern detection using regex-based 
 
 **🗺️ [DevOps Roadmap](https://github.com/viniciusldiniz/DevOps-Roadmap)**
 
-Complete open-source DevOps learning guide in PT-BR tools, certifications, study paths and salary benchmarks from zero to pro.
+Complete open-source DevOps learning guide in PT-BR, tools, certifications, study paths and salary benchmarks from zero to pro.
 
 `Docker` `Kubernetes` `CI/CD` `AWS` `Open Source`
 
@@ -147,7 +147,7 @@ REST API with Spring Security + JWT + OWASP compliance. Demonstrates secure back
 
 **🌐 [Portfolio](https://viniciuslessa.vercel.app/)**
 
-Multilingual personal portfolio (PT, EN, ES, FR, DE) built from scratch no frameworks, dark theme, responsive design.
+Multilingual personal portfolio (PT, EN, ES, FR, DE) built from scratch, no frameworks, dark theme, responsive design.
 
 `HTML5` `CSS3` `JavaScript` `i18n`
 
@@ -159,7 +159,7 @@ Multilingual personal portfolio (PT, EN, ES, FR, DE) built from scratch no frame
 
 ## 🎖 Military Background
 
-> *"8 years in the Brazilian Navy Corps shaped how I approach complex problems: with precision, calm under pressure, and relentless follow-through."*
+> *"8 years in the Brazilian Marine Corps shaped how I approach complex problems: with precision, calm under pressure, and relentless follow-through."*
 
 | Recognition | Details |
 |---|---|
