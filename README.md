@@ -20,7 +20,7 @@
 
 I'm **Vinicius Diniz**, a Backend Developer and Cybersecurity professional from Rio de Janeiro, Brazil 🇧🇷.
 
-Before tech, I served **8 years in the Brazilian Navy Corps** — where I earned the **Carta de Honra ao Mérito** and five military decorations across operations including peacekeeping missions. That chapter gave me discipline, precision under pressure, and a mindset built for high-stakes environments.
+Before tech, I served **8 years in the Brazilian Navy Corps** where I earned the **Carta de Honra ao Mérito** and five military decorations across operations including peacekeeping missions. That chapter gave me discipline, precision under pressure, and a mindset built for high-stakes environments.
 
 Today I apply that same standard to software: building **secure, robust backend systems** with Java and Spring Boot, and deepening expertise in cybersecurity through a **Postgraduate degree at FAMEESP**.
 
@@ -127,7 +127,7 @@ Python tool for log analysis and suspicious pattern detection using regex-based 
 
 **🗺️ [DevOps Roadmap](https://github.com/viniciusldiniz/DevOps-Roadmap)**
 
-Complete open-source DevOps learning guide in PT-BR — tools, certifications, study paths and salary benchmarks from zero to pro.
+Complete open-source DevOps learning guide in PT-BR tools, certifications, study paths and salary benchmarks from zero to pro.
 
 `Docker` `Kubernetes` `CI/CD` `AWS` `Open Source`
 
@@ -147,7 +147,7 @@ REST API with Spring Security + JWT + OWASP compliance. Demonstrates secure back
 
 **🌐 [Portfolio](https://viniciuslessa.vercel.app/)**
 
-Multilingual personal portfolio (PT, EN, ES, FR, DE) built from scratch — no frameworks, dark theme, responsive design.
+Multilingual personal portfolio (PT, EN, ES, FR, DE) built from scratch no frameworks, dark theme, responsive design.
 
 `HTML5` `CSS3` `JavaScript` `i18n`
 
